@@ -1,0 +1,34 @@
+
+body{
+    background-color: aliceblue;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.header_div{
+    background-color:rgb(133, 153, 153);
+    color: rgb(226, 218, 219);
+}
+.header_div p{
+ color: rgb(238, 223, 223);
+ letter-spacing: 1px;
+ font-size: 12px;
+ font-weight: bold; 
+ font-family: 'Roboto', sans-serif; 
+}
+.main_div button{
+    font-family: 'Roboto', sans-serif;
+    margin-top: 30px;
+    width: 130px;
+     font-weight: bolder;
+     letter-spacing: 3px;
+}
+.footer{
+    position: fixed;
+    color: rgb(155, 138, 138);
+    bottom: 0;
+    width: 100%;
+    font-size: 18px;
+    background-color: white;
+    line-height: 3;
+    text-align: center;
+    text-shadow: 5px 5px 5px grey;
+}
